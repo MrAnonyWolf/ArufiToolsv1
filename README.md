@@ -17,7 +17,8 @@ Package/Paket artinya disediakan tools lain untuk menginstall secara bersamaan/T
 
 Terdapat tools didalamnya diantaranya:
 -DarkFB king
--DDos attack 1-Liteddos
+-DDos attack 
+             1-Liteddos
              2-Hammer
              3-Goldeneye
 -Wifi hacker
@@ -26,7 +27,8 @@ Terdapat tools didalamnya diantaranya:
 -Metasploit Framework
 -Sqlmap
 -Blackeye
--Spammer 1-SpamSms
+-Spammer 
+         1-SpamSms
          2-sdvspam
          3-Litespam
          4-Gcospam
@@ -52,6 +54,7 @@ Cara menjalankannya setelah diinstall:
               cara lain agar tidak terkena checkpoint adalah login dibrowser opera atau dipc
 
 2- DDOS ATTACK
+             
               1- Liteddos
                          cd LITEDDOS
                          python2 LITEDDOS.py -nama ip -nama port(default 80) -banyak paket(default 135)
