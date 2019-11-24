@@ -292,6 +292,7 @@ ingat saya tidak bertanggung jawab atas kalian lakukan. ini hanya untuk materi p
            bash blackeye.sh atau sh blackeye.sh
 
 9- Spammer
+
           1-SpamSms
  
           2-sdvspam
