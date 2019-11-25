@@ -24,6 +24,5 @@ version 1 *Update*
 
 - **UPDATE** -
 
-Catatan: Tidak boleh direcode hanya dipelajari saja
-
+Catatan: Tidak boleh direcode hanya dipakai untuk menginstall saja
 Coded by MrAnonyWolf w/ Bash or Born Again Shell
