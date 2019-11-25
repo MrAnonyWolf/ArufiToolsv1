@@ -1,0 +1,29 @@
+- **UPDATE** -
+
+version 1 Beta *update*
+
+- Tools terbaru pertama kali dibuat untuk menginstall secara otomatis
+
+- Tools ini masih dalam tahap perkembangan
+
+- Installer tersebut mempunyai 6 tools tersedia diantaranya paket(yang didalamnya ada tools tambahan)
+
+version 1 *Update*
+
+- Tools tersebut telah keluar dari versi BETA(Perkembangan) dan resmi menghadirkan fitur baru
+
+  1- Menghadirkan fitur baru sebagai SA atau dikenal dengan Script Abilities yaitu kemampuan untuk melakukan sesuatu yang diperintahkan
+
+  2- Beberapa tool termasuk tools didalam paket yang berada di installer telah dihapus karena tidak berjalan atau dikunci
+  
+  3- Tampilan baru pada script tersebut
+
+  4- Ditambahkan 2 tools dan 1 tool paket yang sekarang tersedia didalam tools berikut
+
+  5- Author baru
+
+- **UPDATE** -
+
+Catatan: Tidak boleh direcode hanya dipelajari saja
+
+Coded by MrAnonyWolf w/ Bash or Born Again Shell
