@@ -45,6 +45,7 @@ kemampuan script diantaranya:
 Cara menjalankannya setelah diinstall:
 
 1- DarkFB
+              
               cd DARK_KING
               nano login.txt untuk menyimpan token facebook cari aja digoogle cara dapat token fbnya
               setelah dicopy paste terus ctrl+s dan ctrl+x
@@ -68,22 +69,25 @@ Cara menjalankannya setelah diinstall:
                           cd GoldenEye
                           python2 goldeneye.py -nama url/alamat website
                           catatan: Yang ini hanya bekerja dengan website yang memakai http
-  
+     
    untuk mencari ip website tinggal ketik
    ping (alamat website/url website)
    ctrl+c(^C) untuk memberhentikan ping
 
 3- Wifi Hacker(Untuk smartphone yang sudah diroot)
+                                                  
                                                   cd wifi-hacker
                                                   sh wifi-hacker.sh
 
 4- Red Hawk
+           
            cd RED_HAWK
            php rhawk.php
            ketik nama website www.(nama website).com jangan memakai http:// atau https://
            lalu pilih http atau https tergantung website yang memakainya
            
 5- Weeman
+         
          cd weeman
          chmod 755 weeman.py
          python2 weeman.py
@@ -97,6 +101,7 @@ Cara menjalankannya setelah diinstall:
          tunggu sampai korban login
          
 6- Metasploit Framework
+                       
                        chmod +× metasploit.sh
                        ./metasploit.sh (jika mau menjalankan lagi setelah chmod)
                        
@@ -134,7 +139,7 @@ Cara menjalankannya setelah diinstall:
 
                        jika ssh tidak bisa tersambung ke meterpreter, gunakan ngrok
 
-7- SQLmap
+7- SQLmap       
          cd sqlmap
          cari website yang menurut kalian rentan alias vulnerable
          python2 sqlmap.py -u -nama url/alamat website misal sqlmap.py -u http://www.contoh.com/index.php?id=6
@@ -288,6 +293,7 @@ ingat saya tidak bertanggung jawab atas kalian lakukan. ini hanya untuk materi p
 
 
 8- BlackEye
+           
            cd blackeye
            bash blackeye.sh atau sh blackeye.sh
 
